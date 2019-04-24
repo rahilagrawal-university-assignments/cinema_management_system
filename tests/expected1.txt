@@ -1,0 +1,8 @@
+Booking 1 B1-B4
+Booking 2 X1-X4
+Booking 3 B1-B17
+Change 3 A1-A15
+Booking 4 B1-B4
+Cancel 3
+Cancel rejected
+Change 4 A1-A7

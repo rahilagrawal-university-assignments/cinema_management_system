@@ -1,0 +1,16 @@
+Booking 1 A1-A13
+Booking 2 B1-B12
+Booking rejected
+Booking 4 A1-A10
+Booking 5 A11-A14
+Booking 6 B1-B3
+Cancel 6
+Booking 7 B13-B16
+Booking 8 B17-B20
+Cancel 8
+Booking 9 B17-B20
+Cancel 7
+Booking 10 B13-B16
+Toy Story
+A: 1-13
+B: 1-12,13-16,17-20
